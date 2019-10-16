@@ -1,0 +1,19 @@
+.img-thumbnail {
+    margin:25px;
+    width:85%;
+    height:85%;
+}
+
+.card-body {
+    padding: 0 25px;
+}
+
+.card-footer {
+    padding: 0 25px;
+    background: #fff;
+    border-top: none;
+}
+
+.mat-sidenav-container, .mat-sidenav-content, .mat-tab-body-content {
+    transform: none !important;
+}
