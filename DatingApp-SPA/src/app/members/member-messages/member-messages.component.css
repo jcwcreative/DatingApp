@@ -1,0 +1,27 @@
+.card {
+    border: none;
+}
+.chat {
+    list-style:none;
+    margin: 0;
+    padding: 0;
+}
+.chat li {
+    margin-bottom:10px;
+    padding-bottom: 10px;
+    border-bottom:2px solid #78C2AD;
+}
+
+.img-message {
+    max-height: 50px;
+}
+
+.card-body {
+    overflow-y: scroll;
+    height:600px;
+}
+.fa-clock-o::before {
+    padding-right:5px;
+}
+
+.timeAgo {font-family: Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Noto Color Emoji"}

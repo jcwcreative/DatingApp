@@ -12,6 +12,9 @@
     padding: 10px;
     border-radius: 4px;
   }
+.member-tabset > .tab-content {
+    border-top: none !important;
+}
   
   .nav-tabs > li.open, .member-tabset > .nav-tabs > li:hover {
     border-bottom: 4px solid rgba(120,194,173,0.4);
@@ -52,3 +55,5 @@
     border-top: 1px solid #eee;
     padding: 15px 0;
   }
+
+  .img-message {max-height:50px;}
